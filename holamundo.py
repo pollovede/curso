@@ -5,4 +5,7 @@ n2= int(input("introduce tu segundo numero entero---->"))
 
 print("la suma es ", n1+n2)
 
+print('la resta es ', n1-n2)
+
+
 
