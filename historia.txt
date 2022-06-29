@@ -1,4 +1,6 @@
-esta es la historia de pollovede
+este es el leame del programa
 
-pollovede quiere ganar dinero en un trabajo como inge en computacion
+el programa lo saludara porque es muy educado, y hara una suma sencilla
+
+introduce los numeros que se sumaran y da enter
 
