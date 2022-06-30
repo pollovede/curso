@@ -7,3 +7,5 @@ introduce los numeros que se sumaran y da enter
 este cambio lo hice en github
 
 agregamos una llave ssh
+
+ya lo verifique en terminal
