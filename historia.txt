@@ -4,3 +4,4 @@ el programa lo saludara porque es muy educado, y hara una suma sencilla
 
 introduce los numeros que se sumaran y da enter
 
+este cambio lo hice en github
